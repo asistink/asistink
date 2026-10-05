@@ -134,7 +134,7 @@ A featured build from this profile.
 * 🧠 **Profile signal:** 113 contributions in the last year
 * 🚀 **Builder energy:** 17 public repositories
 * ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+* 🗣️ **Open to:** Anything interesting even if its impossible lets figure it out
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=asistink&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
