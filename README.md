@@ -27,7 +27,7 @@ const asistink: Developer = {
   location:  "yogyakarta city",
   currently: "building in public",
   stack:     ["Jupyter Notebook", "TypeScript", "Dart", "JavaScript", "Python", "Golang"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+  mantra:    "Make anything crossed my mind and regret later on",
 };
 ```
 
