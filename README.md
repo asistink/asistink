@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=asistink&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=yogyakarta%20city&v=readme-reference-2" width="100%" alt="Asistink profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=asistink&theme=neon&role=Backend%20or%20full-stack%20engineer&location=yogyakarta%20city&v=readme-reference-2" width="100%" alt="Asistink profile banner" />
 
 <br/>
 
