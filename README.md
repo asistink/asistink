@@ -33,7 +33,7 @@ const asistink: Developer = {
 
 > Learnin'
 > 
-> **Collaborations welcome when they are meaningful 🤝**
+
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=asistink&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
